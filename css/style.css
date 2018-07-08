@@ -1,0 +1,71 @@
+@import url('http://fonts.googleapis.com/css?family=Average Sans');
+@import url('http://fonts.googleapis.com/css?family=Rajdhani');
+body{
+	background-color: #2f2f33;
+}
+
+.vidtitle {
+	text-decoration:none;
+	font-family:Average Sans;
+	font-size:17px;	
+	font-weight: normal;
+	color: #FFF;  
+}
+.vidTime {
+	text-decoration:none;
+	font-family:Rajdhani;
+	font-size:17px;	
+	font-weight: normal;
+	color: #aeaeae;
+	margin: 0px 0px 0px -4px ;
+}
+.viewcount {
+	text-decoration:none;
+	font-family:Rajdhani;
+	font-size:15px;	
+	font-weight: normal;
+	color: #aeaeae;
+	margin: 0px 0px 0px 10px ;
+}
+.timeago {
+	text-decoration:none;
+	font-family:Rajdhani;
+	font-size:15px;	
+	font-weight: normal;
+	color: #aeaeae;
+	margin: 0px 0px 0px 5px ;
+}
+.videoImage {
+	-webkit-clip-path: polygon(8% 0, 100% 0, 100% 100%, 8% 100%, 0% 50%);
+}
+.CSSloading{
+	margin: 0px 0px 0px 150px ;
+}
+.vr_content_bg{
+	width:320px;
+
+	background-color: rgba(66, 66, 66, 0.6);
+	background: rgba(66, 66, 66, 0.6);
+	color: rgba(66, 66, 66, 0.6);
+}
+
+.thevrTechCounter_pos{
+	position: absolute;
+	left: 230px;
+	top: 3px;
+	color:dodgerblue;
+}
+.thevrCounter_pos{
+	position: absolute;
+	left: 230px;
+	top: 3px;
+	color: crimson;
+}
+.SubCribeCounter{
+			font-size: 16px;
+
+}
+.SubCribeCounterNumber{
+			font-size: 16px;
+			font-weight: bold;
+}
